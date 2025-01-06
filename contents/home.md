@@ -2,15 +2,17 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+嗨，我是蔡文利，大家都叫我“Spider”！我是一只充满活力的小蜘蛛，热爱设计、生活和思考，用好奇心编织出创意的网。开朗热情是我的标签，和人相处时，总能带来满满的正能量！\
 
-#### Email
-sli[at]cumt.edu.cn
+我喜欢发现生活中的小惊喜，用设计解决问题，用想法点亮每一天。求知欲让我不断探索未知领域，而行动力让我迅速抓住灵感。期待和你一起碰撞出更多的创意火花！
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 邮箱
+C2605697775@163.com
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 教育
+2023-2026，中国地质大学（武汉），交互设计，硕士\
+2019-2023，山东理工大学，工业设计，学士.
+
+#### 方向
+交互设计、产品设计
 

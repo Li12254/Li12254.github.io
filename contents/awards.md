@@ -1,13 +1,13 @@
-- National Scholarship of Graduate Student, 2024.
+- 第五届全国会展策划创意大赛一等奖, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- 2024靳埭强优秀奖, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
+-  “华夏奖”文化艺术设计大赛铜奖, 2024.
 
-- Freshman Scholarship of CUMT, 2022.
+- 东方设计奖全国一等奖, 2023.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+-  第四届齐鲁杯工业设计大赛新星奖决赛入围, 2023.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- 党建品牌“食代鲜锋”活动标志设计并投入使用, 2022.
 
-- First-prize Scholarship of CUMT, 2019.
+- 未来设计师. 全国高校数字艺术大赛省三等奖, 2022.
